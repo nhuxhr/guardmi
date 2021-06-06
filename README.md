@@ -39,21 +39,21 @@ expo start || npm run start || yarn start
  - PropTypes
 
 # Dependencies
- - @expo/vector-icons
- - @react-native-async-storage/async-storage
- - @react-navigation/native
- - expo-ads-admob
- - expo-asset
- - expo-linear-gradient
- - expo-linking
- - expo-status-bar
- - expo-store-review
- - react-native-paper
- - react-native-safe-area-context
- - react-native-shadow
- - react-native-svg
- - react-redux
- - redux
+ - [@expo/vector-icons](https://www.npmjs.com/package/@expo/vector-icons)
+ - [@react-native-async-storage/async-storage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)
+ - [@react-navigation/native](https://www.npmjs.com/package/@react-navigation/native)
+ - [expo-ads-admob](https://www.npmjs.com/package/expo-ads-admob)
+ - [expo-asset](https://www.npmjs.com/package/expo-asset)
+ - [expo-linear-gradient](https://www.npmjs.com/package/expo-linear-gradient)
+ - [expo-linking](https://www.npmjs.com/package/expo-linking)
+ - [expo-status-bar](https://www.npmjs.com/package/expo-status-bar)
+ - [expo-store-review](https://www.npmjs.com/package/expo-store-review)
+ - [react-native-paper](https://www.npmjs.com/package/react-native-paper)
+ - [react-native-safe-area-context](https://www.npmjs.com/package/react-native-safe-area-context)
+ - [react-native-shadow](https://www.npmjs.com/package/react-native-shadow)
+ - [react-native-svg](https://www.npmjs.com/package/react-native-svg)
+ - [react-redux](https://www.npmjs.com/package/react-redux)
+ - [redux](https://www.npmjs.com/package/redux)
 
 
 # Contributing
